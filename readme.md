@@ -20,7 +20,7 @@ We have 7 settings and 1 source image url input boxes.
 - **Color Reduce Amount(Q)** - r, g or b values of the drawn line's pixels(according to '[Bresenham Line Algorithm](https://stackoverflow.com/a/55666538)') will be reduced by 'Q'. (Affects the result)
 - **Line Opacity** - Opacity value of the svg-line element. (Does not affect the result)
 - **Colored Lines** - Do not check that box if you don't want to get colored strings. (Affects the result)
-- **Reuse Line** - Do not check that box if you don't want to use line which has been used before. (Affects the result)
+- **Reuse Line** - Do not check that box if you don't want to use the line which has been used before. (Affects the result)
 
 ![Settings Panel](https://github.com/ilyasbilgihan/knitting/blob/master/example/main_screen.png?raw=true)
 
