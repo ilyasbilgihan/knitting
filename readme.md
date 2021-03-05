@@ -26,11 +26,14 @@ We have 7 settings and 1 source image url input boxes.
 
 ## Examples
 
-##### Mustafa Kemal Atatürk
-![Mustafa Kemal Atatürk](https://github.com/ilyasbilgihan/knitting/blob/master/example/mustafa_kemal_ataturk.png?raw=true)
+##### Mustafa Kemal Atatürk 1
+![Mustafa Kemal Atatürk 1 - Colored](https://github.com/ilyasbilgihan/knitting/blob/master/example/mustafa_kemal_ataturk_1c.png?raw=true)
 
 ##### Cillian Murphy as Thomas Shelby
-![Cillian Murphy](https://github.com/ilyasbilgihan/knitting/blob/master/example/thomas_shelby.png?raw=true)
+![Cillian Murphy - Colored](https://github.com/ilyasbilgihan/knitting/blob/master/example/thomas_shelby_1c.png?raw=true)
+
+##### Mustafa Kemal Atatürk 2
+![Mustafa Kemal Atatürk 2 - Black and White](https://github.com/ilyasbilgihan/knitting/blob/master/example/mustafa_kemal_ataturk_2bw.png?raw=true)
 
 ## Thanks to
 - [Petros Vrellis's amazing work](http://artof01.com/vrellis/works/knit.html)
