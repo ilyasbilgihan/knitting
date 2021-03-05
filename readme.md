@@ -9,7 +9,7 @@ Just clone or [download](https://github.com/ilyasbilgihan/knitting/archive/maste
 
 ## Settings Panel
 
-We have 7 settings and 1 image source input boxes.
+We have 7 settings and 1 source image url input boxes.
 
 #### The Settings are:
 - **Max Line Count** - How many vectors (straight lines) will be in our knitted thread. (Affects the result)
