@@ -2,7 +2,8 @@
 A simple algorithm which transforms images to knitted threads.
 
 
-## Examples <br><br>
+## Examples
+
 ##### Mustafa Kemal Atatürk
 ![Mustafa Kemal Atatürk](https://github.com/ilyasbilgihan/knitting/blob/master/example/mustafa_kemal_ataturk.png?raw=true)
 
