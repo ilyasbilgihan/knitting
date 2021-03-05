@@ -41,3 +41,10 @@ We have 7 settings and 1 source image url input boxes.
 - [Petros Vrellis's amazing work](http://artof01.com/vrellis/works/knit.html)
 - [@christiansiegel's solution approach](https://github.com/christiansiegel/knitter)
 - [@MaloDrougard's detailed report](https://github.com/MaloDrougard/knit)
+
+## Reach me
+**[twitter/@ilyasbilgihan](https://twitter.com/ilyasbilgihan)**
+
+**[instagram/@ilyasbilgihan](https://instagram.com/ilyasbilgihan)**
+
+**ilyasbilgihan@gmail.com**
