@@ -14,7 +14,7 @@ We have 7 settings and 1 image source input boxes.
 #### The Settings are:
 - **Max Line Count** - How many vectors (straight lines) will be in our knitted thread. (Affects the result)
 - **Pin Count** - How many pins does the circular path have. (Affects the result)
-- **Min Distance(n)** - There are no vectors (straight lines) from *i<sup>th</sup>* pin to *(i+1,2,3,...,n-1)<sup>th</sup>* pin. (Affects the result)
+- **Min Distance(n)** - There are no vectors (straight lines) from **i<sup>th</sup>** pin to **(i+1,2,3,...,n-1)<sup>th</sup>** pin. (Affects the result)
 - **Color Reduce Amount(Q)** - r, g or b values of the drawn line's pixels(according to 'Bresenham Line Algorithm') will be reduced by 'Q'. (Affects the result)
 - **Line Opacity** - Opacity value of the line element. (Does not affect the result)
 - **Colored Lines** - Do not check that box if you don't want to get colored strings. (Affects the result)
