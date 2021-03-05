@@ -5,11 +5,15 @@ A simple algorithm which transforms images to knitted threads.
 
 - Note 2: When the process finished, you will get an array that shows which pin you must continue and another array that shows i<sup>th</sup> vector's color on the console screen. You can manage these data - export them into your computer or wathever you want.
 
+<br>
+
 ## Usage
 
 Just clone or [download](https://github.com/ilyasbilgihan/knitting/archive/master.zip) this repo and run `index.html`.
 
 Or you can try [live version](https://ilyasbilgihan.github.io/knitting/) without changing/modifying the code.
+
+<br>
 
 ## Settings Panel
 
@@ -41,6 +45,8 @@ We have 7 settings and 1 source image url input boxes.
 - [Petros Vrellis's amazing work](http://artof01.com/vrellis/works/knit.html)
 - [@christiansiegel's solution approach](https://github.com/christiansiegel/knitter)
 - [@MaloDrougard's detailed report](https://github.com/MaloDrougard/knit)
+
+<br>
 
 ## Reach me
 **[twitter/@ilyasbilgihan](https://twitter.com/ilyasbilgihan)**
