@@ -11,7 +11,7 @@ A simple algorithm which transforms images to knitted threads.
 
 ## Usage
 
-Just clone or [download](https://github.com/ilyasbilgihan/knitting/archive/master.zip) this repo and run `index.html`.
+Just **clone** or [download](https://github.com/ilyasbilgihan/knitting/archive/master.zip) this repo and run `index.html`.
 
 Or you can try [live version](https://ilyasbilgihan.github.io/knitting/) without changing/modifying the code.
 
