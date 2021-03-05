@@ -7,6 +7,8 @@ Note: You might need to change [the code line](https://github.com/ilyasbilgihan/
 
 Just clone or [download](https://github.com/ilyasbilgihan/knitting/archive/master.zip) this repo and run `index.html`.
 
+Or you can try [live version](https://ilyasbilgihan.github.io/knitting/) without changing/modifying the code.
+
 ## Settings Panel
 
 We have 7 settings and 1 source image url input boxes.
