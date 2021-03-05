@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Semi Advanced Knitting</title>
+  <link rel="stylesheet" href="./style.css">
+  
+  <script src="https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js"></script>
+  
+</head>
+<body>
+  
+  <button id="start" onclick="drawImageToCanvas()">Start Process</button>
+  <div id="controller">
+    <input title="Source Image URL" type="text" placeholder="Image URL">
+    <input type="number" title="Affects the result" placeholder="Max Line">
+    <input type="number" title="Affects the result" placeholder="Pin Count">
+    <input type="number" title="Affects the result" placeholder="Min Distance">
+    <input type="number" title="Affects the result" placeholder="Color Reduce Amount">
+    <input type="number" title="Does not affect the result" placeholder="Line Opacity">
+    <label title="Affects the result" for="colored">Colored lines: <input type="checkbox" id="colored" checked></label>
+    <label title="Affects the result" for="lines">Can a line be drawn more than once: <input type="checkbox" id="lines" checked></label>
+    <br>
+    <br>
+    <span>Just take a quick look at the code(main.js) to understand the settings properly.</span>
+    <span>You may have to adjust your source image(using photoshop etc.) in order to get a more accurate result.</span>
+  </div>
+  <div id="process"></div>
+  <div class="container">
+    <canvas id="image" width="660" height="660"></canvas>
+    <div id="art"></div>
+  </div>
+  <div class="info"></div>
+  
+  <script src="./main.js"></script>
+  
+</body>
+</html>
