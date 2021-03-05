@@ -29,3 +29,8 @@ We have 7 settings and 1 source image url input boxes.
 
 ##### Cillian Murphy as Thomas Shelby
 ![Cillian Murphy](https://github.com/ilyasbilgihan/knitting/blob/master/example/thomas_shelby.png?raw=true)
+
+## Thanks to
+- [Petros Vrellis's amazing work](http://artof01.com/vrellis/works/knit.html)
+- [@christiansiegel's solution approach](https://github.com/christiansiegel/knitter)
+- [@MaloDrougard's detailed report](https://github.com/MaloDrougard/knit)
