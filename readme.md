@@ -3,6 +3,10 @@ A simple algorithm which transforms images to knitted threads.
 
 Note: You might need to change [the code line](https://github.com/ilyasbilgihan/knitting/blob/7065955f11fcd4975836b79253cd15ffbe4402ee/main.js#L65) with proper values for your source image if you not use square images.
 
+## Usage
+
+Just clone or [download](https://github.com/ilyasbilgihan/knitting/archive/master.zip) this repo and run `index.html`.
+
 ## Settings Panel
 
 We have 7 settings and 1 image source input boxes.
