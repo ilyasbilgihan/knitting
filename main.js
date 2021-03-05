@@ -28,11 +28,12 @@ function drawImageToCanvas(){
   let checkboxes = [...controller.querySelectorAll('input[type="checkbox"]')].map(i => i.checked);
 
   
-  // img.src = 'https://i.imgur.com/sj57ls6.png'; // Thomas Shelby 1
-  // img.src = 'https://i.imgur.com/zNTSaRC.png'; // Mustafa Kemal Atatürk 1
-  // img.src = 'https://i.imgur.com/6nlVY3F.png'; // Mustafa Kemal Atatürk 2
-  // img.src = 'https://i.imgur.com/0udBWbA.jpg'; // John Wick
-  img.src            = imgSource   || 'https://i.imgur.com/tsIeCkC.jpeg'; // Thomas shelby 2
+  // img.src = 'https://i.imgur.com/sj57ls6.png';  // Thomas Shelby 1
+  // img.src = 'https://i.imgur.com/zNTSaRC.png';  // Mustafa Kemal Atatürk 1
+  // img.src = 'https://i.imgur.com/6nlVY3F.png';  // Mustafa Kemal Atatürk 2
+  // img.src = 'https://i.imgur.com/0udBWbA.jpg';  // John Wick
+  // img.src = 'https://i.imgur.com/tsIeCkC.jpeg'; // Thomas shelby 2
+  img.src            = imgSource   || 'https://i.imgur.com/6nlVY3F.png';
   MAX_LINE_COUNT     = settings[0] || 3000;
   PIN_COUNT          = settings[1] || 200;
   MIN_DISTANCE       = settings[2] || 15;
@@ -61,9 +62,9 @@ function drawImageToCanvas(){
     const ctx = c.getContext('2d');
 
 
-    // ctx.drawImage(img, 0, 0, img.width, img.height, 0, 0, SIZE, SIZE);  // default square image
+    ctx.drawImage(img, 0, 0, img.width, img.height, 0, 0, SIZE, SIZE);  // default square image
     // ctx.drawImage(img, 180, 80, 350, 350, 0, 0, SIZE, SIZE); // thomas shelby 1
-     ctx.drawImage(img, 900, 50, 1750, 1750, 0, 0, SIZE, SIZE); // thomas shelby 2
+    // ctx.drawImage(img, 900, 50, 1750, 1750, 0, 0, SIZE, SIZE); // thomas shelby 2
 
     imgData = ctx.getImageData(0, 0, SIZE, SIZE).data;    // used for increasing brightness
     imgDataCpy = ctx.getImageData(0, 0, SIZE, SIZE).data; // used for reducing colors
