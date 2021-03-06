@@ -5,7 +5,7 @@ A simple algorithm which transforms images to knitted threads.
 
 - **Note 1:** You might need to change [the code line](https://github.com/ilyasbilgihan/knitting/blob/7065955f11fcd4975836b79253cd15ffbe4402ee/main.js#L65) with proper values for your source image if you not use square images.
 
-- **Note 2:** When the process finished, you will get an array that shows which pin you must continue and another array that shows i<sup>th</sup> vector's color on the console screen. You can manage these data - export them into your computer or wathever you want.
+- **Note 2:** When the process finished, you will get an array that shows which pin you must continue and another array that shows i<sup>th</sup> vector's color on the console screen. You can manage these data - export them into your computer or whatever you want.
 
 <br>
 
