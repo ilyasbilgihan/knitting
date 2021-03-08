@@ -207,13 +207,8 @@ function calculateVectorScore(vector){
   let score = 0;
 
   vector.forEach(function(pixel){
-    // In black and white images, r=g=b
-    // So we can define its lightness according to any value of r, g or b
-
+	  
     let r = imgData[getColor(pixel.x, pixel.y)[0]] / 255; // r = 1 -> max lightness
-    // In colored images, use [(Math.max(r,g,b)/255) + (Math.min(r,g,b)/255)]/2 to calculate lightness
-
-
     score += 1 - r; // substracting it from 1 gives us the darkness
 
   })
